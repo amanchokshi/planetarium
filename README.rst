@@ -4,9 +4,9 @@
     :target: https://planetarium.readthedocs.io/
     :alt: Jupiter Gif
 
-=======================================================
- Planetarium - A Playground of Planetary Imaging Tools
-=======================================================
+=========================================================
+ *Planetarium - A Playground of Planetary Imaging Tools*
+=========================================================
 |Python| |License| |Black| 
 
 
