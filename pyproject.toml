@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "planetarium"
+version = "0.1.0"
+description = "A playground of planetary imaging tools"
+authors = ["Aman Chokshi <achokshi@student.unimelb.edu.au>"]
+license = "MIT"
+readme = "README.rst"
+homepage = "https://github.com/amanchokshi/planetarium"
+repository = "https://github.com/amanchokshi/planetarium"
+keywords = ["planetarium"]
+
+[tool.poetry.dependencies]
+python = "^3.6"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
