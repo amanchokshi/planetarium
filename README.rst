@@ -1,7 +1,7 @@
 =============
  Planetarium
 =============
-|Python| |Black| |License|
+|Python| |License| |Black| 
 
 A playground of planetary imaging tools
 
