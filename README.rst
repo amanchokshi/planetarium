@@ -1,3 +1,9 @@
+.. image:: https://github.com/amanchokshi/planetarium/blob/main/docs/_static/resources/jup.gif
+    :width: 100%
+    :align: center
+    :target: https://planetarium.readthedocs.io/
+    :alt: Jupiter Gif
+
 =============
  Planetarium
 =============
